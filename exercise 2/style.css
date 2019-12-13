@@ -1,0 +1,152 @@
+body {
+  background: #00BAE7;
+  padding: 0px 0px;
+}
+
+
+
+h1 {
+  margin: 0px;
+  padding:380px 10px;
+  border: 0px solid white ;
+  background: white;
+  text-align: center;
+  font-family: Arvo;
+  color: #00BAE7;
+  font-size: 76px;
+  width: 100%;
+  font-style:normal;
+  letter-spacing: normal;
+  text-transform: uppercase }
+
+p.fun{
+	margin-top:200px;
+	font-weight: bold;
+     font-size: 30px;
+     font-family: Century Gothic;
+     color: AliceBlue;
+     line-height: 1.3em;
+     text-align: center;
+     width: 100%;}
+
+p.top{
+  border: 2px solid white;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: Century Gothic;
+  color: AliceBlue;
+  text-align: left;
+  width: 80%;}
+
+
+.header a{
+  font-family: Arial;
+  color: Aliceblue;
+  font-weight: 100;
+  line-height: 48px;
+  font-size: 24px;
+  padding-bottom: 52px;
+  text-align: left;
+  width: 70%;
+}
+
+.header a:hover {
+	color:green;
+     
+}
+
+
+h2 {
+  margin-top:100px;
+  font-family: Axure Handwriting;
+  color: Aliceblue;
+  font-weight: 100;
+  font-size: 44px;
+  line-height: 24px;
+  padding-bottom: 0px;
+  text-align: left;
+  width: 100%;
+}
+
+p {
+  font-weight: lighter;
+  font-size: 18px;
+  font-family: Century Gothic;
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+}
+
+ul{font-weight: bold;
+  font-size: 20px;
+  font-family: Arial;
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;}
+
+p.end{
+	margin-top:100px;
+	font-weight: bold;
+  font-size: 40px;
+  font-family: Century Gothic;
+  color: AliceBlue;
+  line-height: 1.3em;
+  text-align: center;
+  width: 100%;
+}
+
+p.n{font-weight: bold;
+  font-size: 40px;
+  font-family: Charlemagne Std Bold;
+  color: AliceBlue;
+  text-align: left;
+  width: 100%}
+
+.back a{
+     background: white;
+     border: 2px solid #00BAE7 ;
+     border-radius: 3px;
+     color: #00BAE7;
+     display: inline-block;
+     margin: 10px;
+     padding: 14px;
+     text-decoration: none;
+     font-weight: bold;
+     font-family: Century Gothic;
+     font-size: 20px;
+     text-align: center;
+  }
+
+  .back a:hover {
+     background: #00BAE7;
+     border: 1px solid white;
+     color: white;
+
+}
+
+#one{ display: block;
+	width: 750px;
+	margin-left: 400px;
+}
+
+#two{ display: block;
+	width: 750px;
+	margin-left: 400px;
+}
+
+#three{ display: block;
+	width: 750px;
+	margin-left: 400px;
+}
+
+#four{ display: block;
+	width: 750px;
+	margin-left: 400px;
+}
+.header {
+    margin-top:200px;
+	display: block;
+	width: 750px;
+	margin-left: 400px;}
