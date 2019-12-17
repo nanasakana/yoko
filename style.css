@@ -1,0 +1,46 @@
+body {
+  background: #00BAE7;
+  padding: 0px 0px;
+}
+
+
+
+
+
+   h1{
+  margin: 0px;
+  padding:240px 0px;
+  border: 0px solid white ;
+  background: white;
+  text-align: center;
+  font-family: Arvo;
+  color: #00BAE7;
+  font-size: 76px;
+  width: 100%;
+  font-style:normal;
+  letter-spacing: normal;
+  text-transform: uppercase }
+
+.ex h2{
+	
+     background: white;
+     border: 3px solid #00BAE7 ;
+     border-radius: 10px;
+     color: #00BAE7;
+     display: inline-block;
+     margin: 10px;
+     padding: 14px;
+     text-decoration: none;
+     font-weight: bold;
+     font-family: Century Gothic;
+     font-size: 50px;
+     text-align: center;
+  }
+
+  .ex h2:hover {
+     background: #00BAE7;
+     border: 3px solid white;
+     color: white;
+     text-align: center;
+
+}
