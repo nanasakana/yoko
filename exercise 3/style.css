@@ -1,0 +1,85 @@
+body {
+  background: #2d2f30;
+  padding: 100px;
+}
+
+
+
+
+		.logo {
+			float: right;
+			background: white;
+			width: 60px;
+			height: 60px;
+			display: inline block;
+			margin:0;
+			position: relative;
+		}		
+
+
+		.picture {
+			width: 100%;
+			height: 100px;
+			background: #cccccc;
+			margin-bottom: 6px;
+		}
+
+		.column {
+			background: white;
+			width: 300px;
+			height: 100px;
+			display: inline-block;
+			vertical-align: top;
+			z-index:10px;
+			padding: :10px;
+			
+		}
+
+		.image{
+		text-align: center;}
+
+		.search a{
+  background-color:#d2d5d7;
+  border-radius: 3px;
+  color:#d2d5d7 ;
+  font-family: 'Yantramanav', sans-serif;
+  font-size: 32px;
+  font-weight: 100;
+  display: inline-block;
+  margin: 20px;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  height: 24px;
+  width:80px;
+}
+	
+
+
+p{color:#d2d5d7;
+	 padding:20px 0px;
+}
+
+
+.reseach a{
+	text-align: center;}s
+
+
+p.n{text-align:center;}
+
+}
+
+button{
+     border: 2px solid #d2d5d7 ;
+     border-radius: 3px;
+     color:red;
+     display: block;
+     margin-top: 600px;
+     margin-left: 300px;
+     text-decoration: none;
+     font-weight: bold;
+     font-family: Century Gothic;
+     font-size: 20px;
+     text-align: center;
+     position:fixed;}
